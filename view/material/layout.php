@@ -4,11 +4,11 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0, user-scalable=no"/>
 	<title><?php e($title.' - '.config('site_name'));?></title>
-	<link rel="stylesheet" href="//cdn.bootcss.com/mdui/0.4.1/css/mdui.min.css">
-	<script src="//cdn.bootcss.com/mdui/0.4.1/js/mdui.min.js"></script>
-    <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.min.js"></script>
-    <script src="https://cdn.bootcss.com/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
-    <script src="https://cdn.bootcss.com/jquery_lazyload/1.9.7/jquery.lazyload.min.js"></script>
+	<link rel="stylesheet" href="https://lib.baomitu.com/mdui/0.4.1/css/mdui.min.css">
+	<script src="https://lib.baomitu.com/mdui/0.4.1/js/mdui.min.js"></script>
+    <script src="https://lib.baomitu.com/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://lib.baomitu.com/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
+    <script src="https://lib.baomitu.com/jquery_lazyload/1.9.7/jquery.lazyload.min.js"></script>
 
 	<style>
 		.mdui-appbar .mdui-toolbar{
