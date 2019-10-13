@@ -50,7 +50,7 @@
       <div class="mdui-list-item-content">密码修改</div>
     </a>
 
-    <a href="https://vipmail-my.sharepoint.cn//" class="mdui-list-item" target="_blank">
+    <a href="https://alphaone-my.sharepoint.cn//" class="mdui-list-item" target="_blank">
       <i class="mdui-list-item-icon mdui-icon material-icons">&#xe2bf;</i>
       <div class="mdui-list-item-content">文件管理(onedrive)</div>
     </a>
