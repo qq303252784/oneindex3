@@ -8,6 +8,7 @@ Onedrive Directory Index
 
 ## demo
 [https://file.simplove.ml](https://file.simplove.ml)  
+视频教程可以参考：https://simplove.me/archives/1788
 
 ## change log:  
 18-11-11: 修改2.0程序对世纪互联的支持  
